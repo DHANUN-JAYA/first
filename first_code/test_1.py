@@ -1,3 +1,4 @@
 def reverse(s):
     return s[::-1]
-print(reverse(input()))
+num=reverse(input())
+print(num)
